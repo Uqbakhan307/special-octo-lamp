@@ -1,6 +1,31 @@
+# 💫 Hi 👋, I'm Uqba Khan
+**Junior Web Developer | SMIT Web & App Development | Ex-Intern at Apexcify Technology**
+
+
+- 🔭 **I’m currently working on:**SEO backlinks, business listings & web development projects
+- 🌱 **I’m currently learning:** Web & App Development (HTML, CSS, JavaScript) at SMIT
+- 👯 **I’m looking to collaborate on:** Website development & SEO projects
+- 🤔 **I’m looking for help with:**advanced JavaScript, responsive UI design, and real-world project structure
+- 💬 **Ask me about:** Web development, SEO & backlinks
+- 📫 **How to reach me:**✉️ uqbakhan2006@gmail.com
+- 😄 **Pronouns:** Uqba Khan
+- ⚡ **Fun fact:** I don’t just learn tech — I build with it and grow every day 🚀💻
+
+
+
+
+## 🔗 I am a Content Creator. 😊😊
+
+Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/code_book90/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ uqba-khan-77589532b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uqbakhan2006@gmail.com) 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
