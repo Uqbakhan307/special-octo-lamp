@@ -14,9 +14,13 @@
 
 
 
-## 🔗 I am a Content Creator. 😊😊
+## 🔗 I am a Web Developer & SEO. 😊😊
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+I share web development projects, SEO (backlinks & business listings),
+Stay connected for practical content on Web & App Development and digital skills growth.
+
+📩 Email: uqbakhan2006@gmail.com
+💻 Topics: Web Development • SEO • Learning Projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/code_book90/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ uqba-khan-77589532b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uqbakhan2006@gmail.com) 
